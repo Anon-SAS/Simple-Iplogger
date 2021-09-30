@@ -1,21 +1,32 @@
-# Simple-Iplogger
+<h1 align="center">Oi 👋 sou SAS</h1>
+<h3 align="center">F</h3>
 
-Simples script de puxar dados e enviar-los para um server de discord
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=system32t&label=Profile%20views&color=0e75b6&style=flat" alt="system32t" /> </p>
 
-# Como usar
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=system32t" alt="system32t" /></a> </p>
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+- 🔭 Estou procurando trabalhar em [devtool](http://github.com/System32t/devtool)
 
-### Hi 👋
+- 🌱 Atualmente estou aprendendo **Python**
 
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
+- 👨‍💻 Todos os meus projetos estão disponíveis em [http://github.com/System32t](http://github.com/System32t)
 
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
+- 💬 Pergunte-me sobre **Meus projetos**
 
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
+- 📫 Como me encontrar **oioi17182@gmail.com**
 
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+- ⚡ Fato engraçado **Sla**
 
-![Status](https://github-readme-stats.vercel.app/api?username=System32t)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/https://discord.gg/MFVHdhVcKB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MFVHdhVcKB" height="30" width="40" /></a>
+</p>
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=system32t&show_icons=true&locale=en&layout=compact" alt="system32t" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=system32t&show_icons=true&locale=en" alt="system32t" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=system32t&" alt="system32t" /></p>
