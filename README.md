@@ -9,4 +9,10 @@
 - pkg install python
 - pkg install git
 - git clone https://github.com/System32t/Simple-Iplogger/
-- 
+- cd Simple-Iplogger
+- vim Dhooks.py
+- cole sua webhook entre as aspas e mande pra um amigo seu
+
+# creditos
+
+SAS
